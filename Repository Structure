@@ -1,0 +1,7 @@
+SceneScript-video-understanding/
+├── assets/                                    # README screenshots (dashboard, timeline, PCA, custom-label demo)
+├── SceneScript - Video Understanding.ipynb    # Full pipeline: frames -> CLIP -> scene detection -> FLAN-T5 -> Gradio UI
+├── requirements.txt                           # CLIP, transformers, gradio, opencv, plotly, torch, ...
+├── LICENSE                                    # MIT
+├── .gitignore
+└── README.md

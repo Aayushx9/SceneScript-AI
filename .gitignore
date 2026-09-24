@@ -1,0 +1,27 @@
+# Video / media
+*.mp4
+*.avi
+*.mov
+sample_video.mp4
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Gradio
+flagged/
+gradio_cached_examples/
+
+# Model caches
+.cache/
+*.pt
+*.bin

@@ -1,0 +1,14 @@
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+transformers
+accelerate
+sentencepiece
+gradio
+opencv-python-headless
+plotly
+pandas
+numpy
+Pillow
+torch
